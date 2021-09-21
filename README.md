@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-## Assignment solution for the Demographic Data Analyzer project form freeCodeCamp
+## Assignment solution for the Demographic Data Analyzer project from freeCodeCamp
 
 This repository includes my solution for the assignment given below, you can check and run the project [here](https://replit.com/@SawsanDaban/boilerplate-demographic-data-analyzer#demographic_data_analyzer.py)
 
