@@ -1,5 +1,4 @@
-# Demographic-Data-Analyzer-project
-Solution for Demographic Data Analyzer project assignment from freeCodeCamp
+# Demographic Data Analyzer
 
 ## Assignment solution for the Demographic Data Analyzer project form freeCodeCamp
 
